@@ -1,0 +1,55 @@
+<<!DOCTYPE html>
+  <html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Ad Scripts</title>
+  </head>
+  <body>
+      <!-- First Ad -->
+      <script type="text/javascript">
+          atOptions = {
+              'key': 'ba5c46eaf3fc9367bd7c85e52902a651',
+              'format': 'iframe',
+              'height': 300,
+              'width': 160,
+              'params': {}
+          };
+      </script>
+      <script type="text/javascript" src="//www.highperformanceformat.com/ba5c46eaf3fc9367bd7c85e52902a651/invoke.js"></script>
+
+      <!-- Second Ad -->
+      <script type="text/javascript">
+          atOptions = {
+              'key': 'a06de163868edc10a5113af9f1614fac',
+              'format': 'iframe',
+              'height': 60,
+              'width': 468,
+              'params': {}
+          };
+      </script>
+      <script type="text/javascript" src="//www.highperformanceformat.com/a06de163868edc10a5113af9f1614fac/invoke.js"></script>
+
+      <!-- Third Ad -->
+      <script type="text/javascript" src="//pl25522069.profitablecpmrate.com/51/77/a6/5177a6e5a54d59d8c4b2580414533f78.js"></script>
+
+      <!-- Fourth Ad -->
+      <script type="text/javascript" src="//pl25522144.profitablecpmrate.com/f5/d7/75/f5d775c580f7cec8f4a370207595e214.js"></script>
+
+      <!-- Fifth Ad -->
+      <script type="text/javascript">
+          atOptions = {
+              'key': 'e378058d16c79a44d10294ab1517033b',
+              'format': 'iframe',
+              'height': 50,
+              'width': 320,
+              'params': {}
+          };
+      </script>
+      <script type="text/javascript" src="//www.highperformanceformat.com/e378058d16c79a44d10294ab1517033b/invoke.js"></script>
+
+      <!-- Sixth Ad -->
+      <script async="async" data-cfasync="false" src="//pl25522102.profitablecpmrate.com/9b36c3a6737cccb1e928e2db02965e0f/invoke.js"></script>
+      <div id="container-9b36c3a6737cccb1e928e2db02965e0f"></div>
+  </body>
+  </html>
